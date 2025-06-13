@@ -264,7 +264,7 @@
           "drill": 0.3
         }
       ],
-      "zones_allow_external_fillets": null
+      "zones_allow_external_fillets": false
     },
     "ipc2581": {
       "bom_rev": "",
